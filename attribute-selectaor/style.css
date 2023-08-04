@@ -1,0 +1,11 @@
+a[target="-top"]{
+    color:red;
+}
+a[target="-self"]{
+    color:black;
+}
+:target{
+    font-size: 45px;
+    :;
+    column-width:2;
+}

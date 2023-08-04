@@ -1,0 +1,21 @@
+.simpole{
+	background-color:rgb(40,60,70);
+	border:10px solid rgb(30,55,2);
+	padding:10px;
+}
+.inline{
+	background-color:rgb(250,3,230);
+	margin-top:30px;
+	padding:15px;
+	border-inline:5px dotted lightgreen;
+	
+}
+.inline-end{
+	background-color:rgb(198,198,198);
+	margin-top:20px;
+	padding:20px;
+	border-inline-end:5px solid rgb(121,12,12);
+}
+.inline-start{
+	
+}

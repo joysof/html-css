@@ -1,0 +1,35 @@
+
+body{
+    background-color: #6fc053;
+}
+.login input{
+    background-color: #f2f2f2;
+    padding: 25px;
+    margin-bottom: 5px;
+    border: none;
+    width: 250px;
+    width: 90%px;
+    
+    
+
+}
+.login{
+    background-color:#ffffff ;
+    margin: 50px;
+    padding: 30px;
+    width: 350px;
+    height: 300px;
+    margin: auto;
+    margin-top: 200px;
+}
+.submit{
+    background-color:#00b241 !important;
+    width: 277px !important;
+}
+.reg{
+    color: #e3d5d5;
+}
+.reg a{
+    color: #bde7c6;
+    text-decoration: none;
+}

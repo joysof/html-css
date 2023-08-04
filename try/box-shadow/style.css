@@ -1,0 +1,35 @@
+
+.fast{
+    background-color: aqua;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 10px 10px rgb(234, 234, 242);
+}
+.tow{
+    background-color: rgb(111, 121, 121);
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 3px 3px 5px red;
+}
+.three{
+    background-color: rgb(43, 24, 189);
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: -3px 3px 3px rgb(232, 51, 10);
+}
+.four{
+    background-color: rgba(196, 111, 111, 0.928);
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 3px -3px 3px blue;
+}
+.five{
+    background-color: rgba(196, 54, 92, 0.152);
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+}

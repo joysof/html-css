@@ -1,0 +1,22 @@
+body{
+    color:red;
+    background-color:red;
+  background:url(img/images.jp);
+  background-repeat:no-repeat;
+ /*background-position:bottom;*/
+ background-attachment:fixed;
+ background-size: cover;
+ font-style: italic;
+ 
+  
+ 
+
+}
+.name{
+  background: url(img/download.jpeg);
+  background-repeat: no-repeat;
+  color: blue !important;
+  height: 300px;
+  width: 800px;
+
+}

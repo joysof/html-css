@@ -1,0 +1,44 @@
+.icon{
+  
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+}
+.iconfa{
+    padding: 10px 15px;
+    position: left !important;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+   
+    
+}
+.iconfa:hover{
+    background-color: chartreuse;
+    padding: 15px 20px;
+}
+.iconyo{
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.icongo{
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.icontw{
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.iconph{
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}

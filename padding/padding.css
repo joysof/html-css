@@ -1,0 +1,13 @@
+div p:first-child{
+    border-style:solid;
+    border-color: blue;
+
+    margin:5%;
+   padding: 2%;
+}
+div p:last-child{
+    border-style: double;
+    border-color: orange;
+    font-style: oblique;
+    
+}

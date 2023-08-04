@@ -1,0 +1,26 @@
+div{
+    color:coral;
+    /*background-color: blue;*/
+    /*text-align: center;*/
+   /* direction: rtl;*/
+   /*unicode-bidi: bidi-override;*/
+    /*text-decoration: overline;*/
+    text-indent: 20px;
+   /* letter-spacing: 5px;*/
+
+    /*line-height: 10px;*/
+}
+h2{
+    /*text-align:end;*/
+    text-align: center;
+    color:brown;
+    text-decoration:underline;
+    text-transform: uppercase;
+}
+h3{
+   color: blue;
+    white-space: nowrap;
+}
+.name{
+    text-shadow: 5px 3px #ddd;
+}

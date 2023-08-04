@@ -1,0 +1,55 @@
+.fast{
+    color: beige;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    width:300px;
+    transition:width 3s,height 3s;
+
+}
+.tow{
+    color:white;
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+    width:300px;
+    transition:height 5s;
+}
+.tow:hover{
+    height:200px;
+}
+.fast:hover{
+    width: 500px;
+    height: 50px;
+}
+.four{
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+
+}
+
+.five{
+    background-color: rgb(222, 137, 10);
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+
+}
+
+.six{
+    background-color: rgba(181, 19, 19, 0.279);
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+
+}
+
+.seven{
+    background-color: rgba(138, 140, 156, 0.133);
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+
+}

@@ -1,0 +1,44 @@
+/*unvisited link*/
+a:link{
+    color: red;
+}
+/*mouse ober link*/
+a:hover{
+    color:yellow;
+    font-size: 45px;
+}
+a:active{
+    color:green;
+}
+input:enabled{
+    background-color:green;
+  }
+p:empty{
+    background-color: aquamarine;
+    width: 45px;
+    height: 40px;
+}
+h2:empty{
+    background-color:brown;
+    width: 300px;
+    height: 20px;
+
+    
+}
+input:disabled{
+background-color: red;
+}
+div p:first-child{
+    color: rgb(222, 26, 26);
+
+}
+div h5{
+    font-size: 45px;
+}
+div h3:nth-child(5){
+    color: blue;
+}
+div:not(p){
+    font-size: 14px;
+    font-style: italic;
+}

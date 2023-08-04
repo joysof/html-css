@@ -1,0 +1,7 @@
+a:hover{
+    color: blue;
+    font-size: 40px;
+}
+.link a{
+    text-decoration:none;
+}

@@ -1,0 +1,28 @@
+
+.tooltip {
+   border-bottom: 1px dotted black;
+  display: inline-block;
+  margin-left: 500px;
+ }
+
+ .tooltip .tool{
+  visibility:hidden;
+  width:120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position:absolute;
+  z-index: 1;
+} 
+
+.tooltip:hover .tool {
+  visibility: visible;
+}
+
+@media all and (max-width: 100px){
+  
+}

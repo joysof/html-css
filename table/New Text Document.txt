@@ -1,0 +1,12 @@
+table,th,td{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+table,th{
+width: 60%;
+height: 60px;
+}
+table,td{
+    height: 50px;
+    font-style: italic;
+}

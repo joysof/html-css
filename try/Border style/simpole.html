@@ -1,0 +1,50 @@
+<DOCTYPE html>
+	<head>
+		<title> simpole border</title>
+		<link rel="stylesheet" href="simpole.css">
+		<link rel="stylesheet" href="https://kit.fontawesome.com/e9b823b10f.css" crossorigin="anonymous">
+	</head>
+<body>
+		<div class="simpole">	
+			<p>
+				Hello i am sajib hossen.I am a student.I am study in 
+				Diploma Engnering <abbr title=" computer science and Engnering">
+				CSE</abbr>.Iwent a web Delolaper.Student protests in June 2013 demanded the removal of Principal AZM Masudur Rahman over accusations of corruption and sexual harassment, allegations that he denied.[4] The upazila nirbahi officer (UNO) formed a committee, led by the heads of the polytechnic's five departments, to investigate the charges.[5] The Barguna-Mathbaria-Khulna road, on which the polytechnic is located, was blocked by protesters on multiple occasions.[4][5][6] As the committee's investigation continued without result, the demonstrations became increasingly violent, culminating in a 19 June clash between police and about a thousand students in which 50 students and 5 police were injured, and 13 students were arrested. After that, students avoide
+			</p>
+
+	</div>
+	<div class="inline">
+		Barguna-Mathbaria-Khulna road, on which the polytechnic is located, was blocked by protesters on multiple occasions.[4][5][6] As the committee's investigation continued without result, the demonstrations became increasingly violent, culminating in a 19 June clash between police and about a thousand students in which 50 students and 5 police were injured, and 13 students were arrested. After that, students avoide
+	</div>
+	<div class="inline-end">
+		Barguna-Mathbaria-Khulna road, on which the polytechnic is located, was blocked by protesters on multiple occasions.[4][5][6] As the committee's investigation continued without result, the demonstrations became increasingly violent, culminating in a 19 June clash between police and about a thousand students in which 50 students and 5 police were injured, and 13 students were arrested. After that, students avoide
+	</div>
+	<div class="inline-start">
+		Barguna-Mathbaria-Khulna road, on which the polytechnic is located, was blocked by protesters on multiple occasions.[4][5][6] As the committee's investigation continued without result, the demonstrations became increasingly violent, culminating in a 19 June clash between police and about a thousand students in which 50 students and 5 police were injured, and 13 students were arrested. After that, students avoide
+	
+	</div>
+	
+	<i class="fa-solid fa-bars"></i>
+	<i class="fa-solid fa-person-simple"></i>
+	
+	<input type="color" id="color" />
+	<input type="text" id="normal_text" />
+	
+	<script src="https://kit.fontawesome.com/e9b823b10f.js" crossorigin="anonymous"></script>
+	
+	
+	<script>
+		document.getElementById('color').addEventListener('mouseover',function(e){
+			let inline = document.querySelector('body');
+			inline.style.background = e.target.value
+		})
+		let normal_text = document.getElementById('normal_text');
+		let h1 = document.createElement('h1');
+		normal_text.addEventListener('keyup',(e)=>{
+			h1.textContent = e.target.value
+		})
+		let body = document.querySelector('body');
+		body.appendChild(h1);
+	</script>
+</body>
+</html>

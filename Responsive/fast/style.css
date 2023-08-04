@@ -1,0 +1,120 @@
+.shadow{
+    border: 1px solid white;
+   margin-left:300px;
+   margin-right: 600px;
+    box-shadow: 3px 3px 5px #e9e8ea,-3px -3px 5px#e9e8ea ;
+    border-radius: 20px;
+
+
+}
+.shadow p{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+    font-size: 30px;
+}
+
+.utter{
+    
+    background-color:#0d6efd;
+    color:white;
+    border: 1px solid;
+    border-radius: 30px;
+    width: 1000px;
+    height: 150px;
+    margin-left:300px;
+    margin-bottom: 20px;
+    margin-right: 300px;
+    padding-left:50px ;
+}
+.utter h1{
+    font-size:30px;
+    text-align: center !important;
+}
+.help{
+    font-size: 50px;
+    color: coral;
+}
+.link a{
+   
+    text-decoration: none;
+
+}
+
+.Home{
+    color: aquamarine;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 9px;
+    margin-top:-55px;
+    width: 50px;
+    text-align: center;
+    visibility:hidden;
+    background-color: #78bb78;
+    
+}
+.fast:hover.Home{
+    visibility:visible;
+}
+.coun{
+    color: aquamarine;
+    border: 1px solid gray;
+    border-radius: 9px;
+    margin-top:-30px;
+    margin-left:30px;
+    padding: 5px;
+    display: block;
+    width: 70px;
+    text-align: center;
+    visibility:hidden;
+    background-color: #78bb78;
+}
+
+.Bag{
+    color: aquamarine;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 9px;
+    margin-top:-30px;
+    margin-left: 95px;
+    display: block;
+    width: 75px;
+    text-align: center;
+    visibility:hidden;
+    background-color: #78bb78;
+
+}
+
+.patu{
+    color: aquamarine;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 9px;
+    margin-top:-30px;
+    margin-left:170px;
+    display: block;
+    width: 70px;
+    text-align: center;
+    visibility:hidden;
+    background-color: #78bb78;
+}
+
+
+    
+.information{
+    font-size: 30px;
+    text-align:center;
+    text-decoration: underline;
+}
+.list{
+line-height: 50px;
+background-repeat: no-repeat;
+background-position:right bottom;
+margin: 20px 40px 10px 30px;
+
+padding-left: 100px;
+padding-right:50px;
+padding-top:50px;
+
+}

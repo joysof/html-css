@@ -1,0 +1,17 @@
+div{
+   border: 2px solid blue;
+    border-width: 10px ;
+    margin: 40px 20px 45px;
+    padding: 20px;
+   font-style:italic;
+    font-size: 30px;
+   /* width: 700px;*/
+  /* max-width:300px;*/
+  min-width: 80px;
+  height: 300px;
+/*overflow: hidden;*/
+overflow: scroll;
+width: 800px;
+
+
+}

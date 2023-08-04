@@ -1,0 +1,10 @@
+div{
+    width: 700px;
+    border:5px solid blue;
+    margin: 30px;
+    padding: 15px;
+    outline-style:dashed;
+    outline-color: red;
+    outline-width: 3px;
+    outline-offset: 20px;
+}

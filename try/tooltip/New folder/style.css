@@ -1,0 +1,12 @@
+.tooltipe{
+    background-color: rgb(14, 125, 222);
+    position: absolute;
+    top: 0;
+    display: none;
+}
+.info{
+    position: relative;
+}
+a.tool:hover > span.tooltipe{
+    display: inline-block !important;
+}

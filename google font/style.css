@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Cypro+Minoan&family=Open+Sans:ital,wght@0,300;0,400;0,800;1,300;1,600;1,700;1,800&display=swap');
+
+
+ 
+
+  header{
+
+    margin-bottom: 50px;
+    font-family:  'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    
+
+  }
+
+  main{
+    margin-bottom: 50px;
+    font-family:  'Open Sans', sans-serif;
+    font-weight: 800;
+  }
+
+  footer{
+
+  }

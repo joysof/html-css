@@ -1,0 +1,7 @@
+.columns{
+    column-count: 3;
+    column-gap: 50px;
+    column-rule: 5px dotted rgb(48, 45, 45);
+    text-align: justify;
+    column-width: 300px;
+}

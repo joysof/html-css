@@ -1,0 +1,7 @@
+p{
+   background-color: aliceblue;
+    border-color: rgb(25, 25, 241);
+    column-count: 4;
+    column-count: inherit !important;
+    text-align: right;
+}
